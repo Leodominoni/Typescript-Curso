@@ -1,1 +1,1 @@
-# typescript-curso-1-arquivos-iniciais
+<h1 align="center"> Aula de TypeScript </h1>
